@@ -1,0 +1,6 @@
+{
+	"name": "jiangjl0127/hello_world",
+	"require":{
+		"smarty/smarty": "3.1.*"
+	}
+}
